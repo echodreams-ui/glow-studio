@@ -1,0 +1,6 @@
+{
+  "name": "Glow Studio",
+  "description": "Modern unisex salon and beauty studio in Indirapuram, Ghaziabad offering professional hair, skin, nail, and bridal services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
